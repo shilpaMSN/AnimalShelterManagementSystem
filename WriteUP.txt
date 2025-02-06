@@ -7,4 +7,4 @@ Inheritance: Dog, Cat, and Bird inherit from Animal.
 
 Polymorphism: displayInfo() is overridden in derived classes.
 
-Abstraction: Animal is an abstract class with a common interface.
+Abstraction: Animal is an abstract class.
