@@ -4,8 +4,8 @@ import java.util.List;
 public class AnimalShelter {
     public static void main(String[] args) {
         List<Animal> animals = new ArrayList<>(); // List to store all animals
-        Staff staff = new Staff(1, "Alice", "Veterinarian"); // Creating a staff member
-        Adopter adopter = new Adopter(101, "John Doe", "johndoe@example.com"); // Creating an adopter
+        Staff staff = new Staff(1, "Ramesh", "Veterinarian"); // Creating a staff member
+        Adopter adopter = new Adopter(101, "Anish", "Anish@example.com"); // Creating an adopter
 
         // Adding Animals to the Shelter
         Dog buddy = new Dog("Buddy", 3, "Labrador", true, "Healthy");
